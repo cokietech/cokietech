@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on catching up on Dot Net technologies  
-🌱 I’m currently learning Blazor  
+🌱 I’m currently learning Blazor and new Dot Net stuff  
 📫 How to reach me: [dean@deanblank.net](mailto:dean@cokietech.com?subject=[GitHub] Source CokieTech)  
 
 <!--
